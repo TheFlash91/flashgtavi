@@ -1,0 +1,63 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "characters": "Personajes",
+    "trailers": "Tráileres",
+    "locations": "Ubicaciones",
+    "news": "Noticias",
+    "languageLabel": "Idioma",
+    "themeLabel": "Tema",
+    "openMenu": "Abrir menú de navegación",
+    "closeMenu": "Cerrar menú de navegación",
+    "switchTo": "Cambiar a inglés",
+    "switchToLight": "Cambiar a tema claro",
+    "switchToDark": "Cambiar a tema oscuro",
+    "brandLabel": "Grand Theft Auto VI"
+  },
+  "footer": {
+    "copyright": "©️ 2026 Flash Nexus. Todos los derechos reservados."
+  },
+  "actions": {
+    "readMore": "LEER MÁS",
+    "explore": "EXPLORAR",
+    "viewAll": "VER TODO",
+    "back": "VOLVER",
+    "backToTop": "Volver arriba",
+    "play": "REPRODUCIR",
+    "loadMore": "CARGAR MÁS",
+    "previous": "Imagen anterior",
+    "next": "Imagen siguiente",
+    "retry": "REINTENTAR",
+    "close": "Cerrar",
+    "showMore": "Mostrar más",
+    "showLess": "Mostrar menos"
+  },
+  "states": {
+    "loading": "Cargando",
+    "success": "Éxito",
+    "empty": "No hay contenido disponible.",
+    "error": "Algo salió mal."
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "description": "La página que buscas no existe."
+  },
+  "accessibility": {
+    "heroImage": "Arte oficial de Grand Theft Auto VI",
+    "characterImage": "Arte oficial de {name}",
+    "locationImage": "Arte oficial de {name}",
+    "newsImage": "Imagen oficial de la noticia {title}",
+    "logo": "Flash Nexus",
+    "genericImage": "Medio oficial de Grand Theft Auto VI",
+    "trailerImage": "Miniatura oficial del tráiler de Grand Theft Auto VI"
+  },
+  "meta": {
+    "homeTitle": "Flash⚡- GTA VI",
+    "homeDescription": "Un sitio independiente que reúne información oficial de Grand Theft Auto VI.",
+    "characters": "Personajes | Flash⚡- GTA VI",
+    "locations": "Ubicaciones | Flash⚡- GTA VI",
+    "trailers": "Tráilers | Flash⚡- GTA VI",
+    "news": "Noticias | Flash⚡- GTA VI",
+    "detailSuffix": " | Flash⚡- GTA VI"
+  }
+}

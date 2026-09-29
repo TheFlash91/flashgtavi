@@ -1,0 +1,25 @@
+{
+  "trailers": {
+    "pageTitle": "TRAILERS",
+    "pageIntro": "Watch the official Grand Theft Auto VI video releases.",
+    "extended": {
+      "title": "An Extended Look",
+      "date": "27/08/2026",
+      "source": "Rockstar Games"
+    },
+    "trailer2": {
+      "title": "Trailer 2",
+      "date": "06/05/2025",
+      "source": "Rockstar Games"
+    },
+    "trailer1": {
+      "title": "Trailer 1",
+      "date": "04/12/2023",
+      "source": "Rockstar Games"
+    },
+    "comingSoon": "COMING SOON",
+    "external": "Watch on YouTube",
+    "embedTitle": "Grand Theft Auto VI official video",
+    "comingSoonTitle": "Coming Soon"
+  }
+}

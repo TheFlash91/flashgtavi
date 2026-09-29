@@ -1,0 +1,81 @@
+{
+  "characters": {
+    "pageTitle": "CHARACTERS",
+    "pageIntro": "Meet the confirmed characters of Grand Theft Auto VI.",
+    "main": "MAIN CHARACTERS",
+    "supporting": "SUPPORTING CHARACTERS",
+    "categoryMain": "MAIN",
+    "categorySupporting": "SUPPORTING",
+    "background": "BACKGROUND",
+    "personality": "PERSONALITY",
+    "relationships": "CONFIRMED RELATIONSHIPS",
+    "currentSituation": "CURRENT KNOWN SITUATION",
+    "group": "GROUP",
+    "individual": "INDIVIDUAL",
+    "notFound": "Character not found",
+    "jason": {
+      "name": "Jason Duval",
+      "description": "Jason grew up around grifters and crooks. After a stint in the Army, he found himself in the Keys working for local drug runners and looking for an easier life.",
+      "background": "Jason grew up around grifters and crooks. After a stint in the Army trying to shake off his troubled teens, he found himself in the Keys doing what he knows best, working for local drug runners.",
+      "personality": "He wants an easy life, but things keep getting harder. His meeting with Lucia changes the stakes around him.",
+      "situation": "Jason is working in the Keys and becomes closely tied to Lucia and Brian’s circle."
+    },
+    "lucia": {
+      "name": "Lucia Caminos",
+      "description": "Fresh out of prison, Lucia is determined to change the odds in her favor and take control of the life she wants.",
+      "background": "Lucia’s father taught her to fight from a young age. Fighting for her family landed her in the Leonida Penitentiary, and sheer luck got her out.",
+      "personality": "Focused, determined and prepared to take matters into her own hands rather than wait for someone else to change her circumstances.",
+      "situation": "Lucia is fresh out of prison and committed to a plan that could make the life she wants possible."
+    },
+    "cal": {
+      "name": "Cal Hampton",
+      "description": "Jason’s friend and Brian’s associate, Cal prefers staying close to home while listening in on Coast Guard communications and private tabs.",
+      "background": "Cal spends much of his time at home, monitoring Coast Guard communications and private tabs while keeping close to Jason and Brian.",
+      "personality": "Paranoid, observant and more comfortable behind a screen than in the middle of trouble.",
+      "situation": "Cal remains part of Jason’s circle as their plans become larger."
+    },
+    "brian": {
+      "name": "Brian Heder",
+      "description": "A classic drug runner from the golden age of smuggling in the Keys, Brian still moves product through his boat yard.",
+      "background": "Brian has been around the Keys long enough to let others do his dirty work. He operates through his boat yard and keeps Jason close by giving him a place to live.",
+      "personality": "Experienced, connected and comfortable making other people handle the difficult parts.",
+      "situation": "Brian lets Jason live rent-free at one of his properties in exchange for helping with local shakedowns."
+    },
+    "boobie": {
+      "name": "Boobie Ike",
+      "description": "A Vice City legend who built an empire that stretches from real estate to entertainment.",
+      "background": "Boobie came up from the streets and built a broad business empire including real estate, a strip club and a recording studio.",
+      "personality": "Established, confident and accustomed to operating at a scale larger than the street.",
+      "situation": "Boobie is associated with Dre’Quan and Only Raw as their worlds intersect."
+    },
+    "drequan": {
+      "name": "Dre’Quan Priest",
+      "description": "A hustler building Only Raw while working with Boobie Ike and Real Dimez.",
+      "background": "Dre’Quan is focused on turning Only Raw into something bigger and works within Boobie Ike’s orbit.",
+      "personality": "Ambitious and business-minded, with music and street connections moving in parallel.",
+      "situation": "Dre’Quan continues developing Only Raw alongside his associates."
+    },
+    "realdimez": {
+      "name": "Real Dimez",
+      "description": "A music duo represented by Bae-Luxe and Roxy, operating as one profile in this companion.",
+      "background": "Real Dimez is the duo of Bae-Luxe and Roxy, connected to Dre’Quan’s music operation.",
+      "personality": "Performative, ambitious and focused on turning their music presence into opportunity.",
+      "situation": "The duo is part of the expanding network around Only Raw."
+    },
+    "raul": {
+      "name": "Raul Bautista",
+      "description": "A seasoned bank robber whose experience makes him a dangerous and capable operator.",
+      "background": "Raul is an experienced criminal operator who brings planning and professional robbery experience into the wider Leonida underworld.",
+      "personality": "Confident, experienced and willing to take calculated risks.",
+      "situation": "Raul operates independently within the criminal world of Leonida."
+    },
+    "content": "CONTENT"
+  },
+  "relationships": {
+    "romantic": "Romantic partner",
+    "friend": "Friend",
+    "employer": "Employer",
+    "employee": "Employee",
+    "associate": "Associate"
+  }
+}

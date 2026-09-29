@@ -1,0 +1,43 @@
+{
+  "news": {
+    "pageTitle": "NEWS",
+    "pageIntro": "A curated record of approved Grand Theft Auto VI announcements and game information.",
+    "featured": "FEATURED NEWS",
+    "latest": "LATEST NEWS",
+    "filters": "CATEGORIES",
+    "all": "ALL",
+    "announcements": "ANNOUNCEMENTS",
+    "gameInformation": "GAME INFORMATION",
+    "updates": "UPDATES",
+    "noResults": "No articles match this category.",
+    "launch": {
+      "title": "Grand Theft Auto VI launches November 19, 2026",
+      "summary": "Grand Theft Auto VI is coming to PlayStation 5 and Xbox Series X|S on November 19, 2026.",
+      "content": "Grand Theft Auto VI is scheduled to launch on November 19, 2026 for PlayStation 5 and Xbox Series X|S. Rockstar Games lists Vice City and the wider state of Leonida as the setting for the game."
+    },
+    "preorder": {
+      "title": "Pre-Order Grand Theft Auto VI on June 25",
+      "summary": "Pre-orders for Grand Theft Auto VI begin June 25, 2026.",
+      "content": "Rockstar Games announced that pre-orders begin June 25, 2026. Digital versions can begin pre-loading on November 12 ahead of launch on November 19."
+    },
+    "extended": {
+      "title": "Grand Theft Auto VI: An Extended Look — Now Playing",
+      "summary": "The official Extended Look is now available to watch.",
+      "content": "Rockstar Games released An Extended Look on August 27, 2026. The official media hub lists it as the latest long-form video release."
+    },
+    "dualsense": {
+      "title": "First look at the Grand Theft Auto VI Limited Edition DualSense wireless controller",
+      "summary": "PlayStation revealed a limited edition DualSense wireless controller themed around Grand Theft Auto VI.",
+      "content": "PlayStation revealed a Grand Theft Auto VI Limited Edition DualSense wireless controller on September 3, 2026. This article records the public announcement without adding unconfirmed availability or pricing details."
+    },
+    "platforms": {
+      "title": "Grand Theft Auto VI platforms and editions",
+      "summary": "Rockstar Games confirms PlayStation 5 and Xbox Series X|S as the launch platforms.",
+      "content": "Grand Theft Auto VI is announced for PlayStation 5 and Xbox Series X|S. The official product information also distinguishes the Standard Edition and Ultimate Edition. This companion does not add unsupported future platforms or pricing."
+    },
+    "sourceLabel": "SOURCE",
+    "lastUpdated": "LAST UPDATED",
+    "published": "PUBLISHED",
+    "articleNotFound": "News article not found"
+  }
+}

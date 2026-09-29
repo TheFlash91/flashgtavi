@@ -1,0 +1,26 @@
+{
+  "home": {
+    "heroIdentifier": "Grand Theft Auto VI",
+    "releaseDate": "19/11/2026",
+    "releaseProgressTitle": "PROGRESO HACIA EL LANZAMIENTO",
+    "releaseProgressAlt": "Release progress: {value}%",
+    "newsTitle": "ÚLTIMAS NOTICIAS",
+    "charactersTitle": "PERSONAJES",
+    "charactersCta": "EXPLORAR PERSONAJES",
+    "locationsTitle": "VICE CITY Y MÁS ALLÁ",
+    "locationsIntro": "Explora los lugares que dan forma a Leonida, desde el corazón de neón de Vice City hasta los rincones más tranquilos de su territorio.",
+    "locationsCta": "EXPLORAR EL MUNDO",
+    "trailersTitle": "TRÁILERES",
+    "trailersCta": "VER TODOS LOS TRÁILERES",
+    "finalCtaTitle": "LA ESPERA CONTINÚA.",
+    "finalCtaDate": "19/11/2026"
+  },
+  "countdown": {
+    "days": "Días",
+    "hours": "Horas",
+    "minutes": "Minutos",
+    "seconds": "Segundos",
+    "availableNow": "DISPONIBLE AHORA",
+    "aria": "Tiempo restante hasta el lanzamiento de Grand Theft Auto VI: {days} días, {hours} horas, {minutes} minutos y {seconds} segundos"
+  }
+}

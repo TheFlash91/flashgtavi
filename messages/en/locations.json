@@ -1,0 +1,31 @@
+{
+  "locations": {
+    "pageTitle": "LOCATIONS",
+    "pageIntro": "Six confirmed regions define the wider world of Leonida.",
+    "viceCity": {
+      "name": "Vice City",
+      "description": "The neon center of Leonida, where bright beaches, nightlife and a sprawling city create the unmistakable heart of the game’s world."
+    },
+    "leonidaKeys": {
+      "name": "Leonida Keys",
+      "description": "A chain of islands where Jason works around local drug runners, boat yards and the slower rhythms of the Keys."
+    },
+    "portGellhorn": {
+      "name": "Port Gellhorn",
+      "description": "A distinct coastal region beyond Vice City, adding another side to Leonida’s varied landscape."
+    },
+    "ambrosia": {
+      "name": "Ambrosia",
+      "description": "A confirmed region of Leonida that expands the world beyond the bright center of Vice City."
+    },
+    "grassrivers": {
+      "name": "Grassrivers",
+      "description": "A rural region of Leonida that contrasts with the city and coastal environments."
+    },
+    "mountKalaga": {
+      "name": "Mount Kalaga National Park",
+      "description": "A national park region that brings a broader natural landscape into Leonida."
+    },
+    "contentTitle": "CONTENT"
+  }
+}

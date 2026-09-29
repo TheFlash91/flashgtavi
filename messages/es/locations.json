@@ -1,0 +1,31 @@
+{
+  "locations": {
+    "pageTitle": "UBICACIONES",
+    "pageIntro": "Seis regiones confirmadas definen el mundo más amplio de Leonida.",
+    "viceCity": {
+      "name": "Vice City",
+      "description": "El centro de neón de Leonida, donde las playas, la vida nocturna y una extensa ciudad forman el corazón inconfundible del mundo del juego."
+    },
+    "leonidaKeys": {
+      "name": "Leonida Keys",
+      "description": "Una cadena de islas donde Jason trabaja alrededor de traficantes locales, astilleros y el ritmo más tranquilo de los Cayos."
+    },
+    "portGellhorn": {
+      "name": "Port Gellhorn",
+      "description": "Una región costera diferenciada más allá de Vice City que aporta otra cara al variado paisaje de Leonida."
+    },
+    "ambrosia": {
+      "name": "Ambrosia",
+      "description": "Una región confirmada de Leonida que amplía el mundo más allá del brillante centro de Vice City."
+    },
+    "grassrivers": {
+      "name": "Grassrivers",
+      "description": "Una región rural de Leonida que contrasta con los entornos urbanos y costeros."
+    },
+    "mountKalaga": {
+      "name": "Mount Kalaga National Park",
+      "description": "Una región de parque nacional que incorpora un paisaje natural más amplio a Leonida."
+    },
+    "contentTitle": "CONTENIDO"
+  }
+}

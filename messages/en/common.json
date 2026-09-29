@@ -1,0 +1,63 @@
+{
+  "nav": {
+    "home": "Home",
+    "characters": "Characters",
+    "trailers": "Trailers",
+    "locations": "Locations",
+    "news": "News",
+    "languageLabel": "Language",
+    "themeLabel": "Theme",
+    "openMenu": "Open navigation menu",
+    "closeMenu": "Close navigation menu",
+    "switchTo": "Switch to Spanish",
+    "switchToLight": "Switch to light theme",
+    "switchToDark": "Switch to dark theme",
+    "brandLabel": "Grand Theft Auto VI"
+  },
+  "footer": {
+    "copyright": "©️ 2026 Flash Nexus. All rigths reserved."
+  },
+  "actions": {
+    "readMore": "READ MORE",
+    "explore": "EXPLORE",
+    "viewAll": "VIEW ALL",
+    "back": "BACK",
+    "backToTop": "Back to top",
+    "play": "PLAY",
+    "loadMore": "LOAD MORE",
+    "previous": "Previous image",
+    "next": "Next image",
+    "retry": "RETRY",
+    "close": "Close",
+    "showMore": "Show more",
+    "showLess": "Show less"
+  },
+  "states": {
+    "loading": "Loading",
+    "success": "Success",
+    "empty": "No content available.",
+    "error": "Something went wrong."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The page you are looking for does not exist."
+  },
+  "accessibility": {
+    "heroImage": "Grand Theft Auto VI official hero artwork",
+    "characterImage": "Official artwork for {name}",
+    "locationImage": "Official artwork for {name}",
+    "newsImage": "Official news image for {title}",
+    "logo": "Flash Nexus",
+    "genericImage": "Official Grand Theft Auto VI media",
+    "trailerImage": "Official Grand Theft Auto VI trailer thumbnail"
+  },
+  "meta": {
+    "homeTitle": "Flash⚡- GTA VI",
+    "homeDescription": "An independent companion to official Grand Theft Auto VI information.",
+    "characters": "Characters | Flash⚡- GTA VI",
+    "locations": "Locations | Flash⚡- GTA VI",
+    "trailers": "Trailers | Flash⚡- GTA VI",
+    "news": "News | Flash⚡- GTA VI",
+    "detailSuffix": " | Flash⚡- GTA VI"
+  }
+}
