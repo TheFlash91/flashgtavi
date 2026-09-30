@@ -19,3 +19,4 @@ test-results/
 # Next.js development/build artifacts
 .next/dev/
 .next/cache/
+dist/
